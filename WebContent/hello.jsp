@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>WebApplication JSP Page</title>
+    <title>WebApptry JSP Page</title>
   </head>
 
   <body bgcolor=white>
@@ -12,13 +12,13 @@
       </td>
       
       <td>
-         <h1>WebApplication JSP Page</h1>
+         <h1>WebApptry JSP Page</h1>
       </td>
     </tr>
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the WebApplication.</p>
+  <p>This is the output of a JSP page that is part of the WebApptry.</p>
 
   <%= new String("Hello!") %>
 
